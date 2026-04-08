@@ -38,5 +38,10 @@ Role of GRUB: The GRUB program is responsible for providing a request for an enc
 
 ## Screenshots
 
-Screenshot 1: Partitioning Method Selection 
+Screenshot 1: Partitioning Method Selection
+Screenshot 2: Partition Selection 
+Screenshot 3: Debian package mirror selection
+Screenshot 4: Software task selection and GRUB bootloader installation
+Screenshot 5: Final installation stages showing GRUB bootloader and config
+Screenshot 6: Post-boot system verification showing the output of lsblk
 EOF
